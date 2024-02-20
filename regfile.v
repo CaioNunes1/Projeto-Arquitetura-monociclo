@@ -1,12 +1,3 @@
-// Universidade Federal Rural de Pernambuco
-// 2021.2
-// Arquitetura e Organização de Computadores - 2ªVA
-// Alunos:
-// Steffano Pereira
-// Haga Fedra
-// João Carvalho
-// Julyanne Correia
-// -----------------------------
 module regfile(ReadAddr1, ReadAddr2, ReadData1, ReadData2, Clock, WriteAddr, WriteData, RegWrite, Reset);
 	
 	// Declaração de entradas e saídas
