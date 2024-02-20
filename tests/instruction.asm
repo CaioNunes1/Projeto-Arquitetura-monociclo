@@ -97,6 +97,3 @@
 	jump_link:
 	add $8, $0, $ra #deve apresentar na ULA o PC+4 da instrução jal JAL
 	
-	
-	
-	
