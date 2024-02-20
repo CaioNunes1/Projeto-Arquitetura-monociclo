@@ -1,12 +1,4 @@
-// Universidade Federal Rural de Pernambuco
-// 2021.2
-// Arquitetura e Organização de Computadores - 2ªVA
-// Alunos:
-// Steffano Pereira
-// Haga Fedra
-// João Carvalho
-// Julyanne Correia
-// -----------------------------
+
 module d_mem #(parameter MEM_SIZE = 64) (address, writeData, readData, memWrite, memRead, clk);
 
    //declarar entradas e saídas
