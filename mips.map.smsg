@@ -1,3 +1,0 @@
-Warning (10268): Verilog HDL information at regfile.v(29): always construct contains both blocking and non-blocking assignments File: C:/teste/regfile.v Line: 29
-Warning (10273): Verilog HDL warning at d_mem.v(30): extended using "x" or "z" File: C:/teste/d_mem.v Line: 30
-Warning (10273): Verilog HDL warning at jr_control.v(9): extended using "x" or "z" File: C:/teste/control/jr_control.v Line: 9
